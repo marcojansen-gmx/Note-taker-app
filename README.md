@@ -51,6 +51,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
-![HTML webpage for my team](https://github.com/marcojansen-gmx/employee_information_tool/blob/main/assets/employee_note_taker.png?raw=true)
+![HTML webpage for my team](https://github.com/marcojansen-gmx/Note-taker-app/blob/main/note_taker.png?raw=true)
 ## License
     Use for fun permitted. Don't use to educate. Don't claim as your own.
