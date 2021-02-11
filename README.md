@@ -12,8 +12,7 @@ The application’s front end has already been created. It's my job to build the
 * [AcceptanceCriteria](#AcceptanceCriteria)
 * [Herocu](#Herocu)
 * [Github](#Github)
-* [Mockup](#Mockup)
-* [License](#license)
+* [Mock-Up](#Mock-Up)
 
 ## UserStory
 
@@ -52,5 +51,3 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
 ![HTML webpage for my team](https://github.com/marcojansen-gmx/Note-taker-app/blob/main/note_taker.png?raw=true)
-## License
-    Use for fun permitted. Don't use to educate. Don't claim as your own.
